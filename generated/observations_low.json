@@ -1,0 +1,1178 @@
+[
+    {
+        "effectiveDateTime": "2024-09-17T12:49:25.055470",
+        "activity": "active",
+        "heartRate": 74,
+        "steps": 92,
+        "oxygenSaturation": 96.71
+    },
+    {
+        "effectiveDateTime": "2024-09-17T13:49:25.055470",
+        "activity": "active",
+        "heartRate": 87,
+        "steps": 35,
+        "oxygenSaturation": 98.06
+    },
+    {
+        "effectiveDateTime": "2024-09-17T14:49:25.055470",
+        "activity": "active",
+        "heartRate": 87,
+        "steps": 65,
+        "oxygenSaturation": 96.4
+    },
+    {
+        "effectiveDateTime": "2024-09-17T15:49:25.055470",
+        "activity": "active",
+        "heartRate": 80,
+        "steps": 66,
+        "oxygenSaturation": 98.78
+    },
+    {
+        "effectiveDateTime": "2024-09-17T16:49:25.055470",
+        "activity": "active",
+        "heartRate": 87,
+        "steps": 98,
+        "oxygenSaturation": 97.61
+    },
+    {
+        "effectiveDateTime": "2024-09-17T17:49:25.055470",
+        "activity": "active",
+        "heartRate": 85,
+        "steps": 63,
+        "oxygenSaturation": 96.13
+    },
+    {
+        "effectiveDateTime": "2024-09-17T18:49:25.055470",
+        "activity": "active",
+        "heartRate": 82,
+        "steps": 41,
+        "oxygenSaturation": 96.46
+    },
+    {
+        "effectiveDateTime": "2024-09-17T19:49:25.055470",
+        "activity": "active",
+        "heartRate": 76,
+        "steps": 60,
+        "oxygenSaturation": 97.3
+    },
+    {
+        "effectiveDateTime": "2024-09-17T20:49:25.055470",
+        "activity": "workout",
+        "heartRate": 114,
+        "steps": 539,
+        "oxygenSaturation": 95.77
+    },
+    {
+        "effectiveDateTime": "2024-09-17T21:49:25.055470",
+        "activity": "active",
+        "heartRate": 81,
+        "steps": 85,
+        "oxygenSaturation": 98.47
+    },
+    {
+        "effectiveDateTime": "2024-09-17T22:49:25.055470",
+        "activity": "rest",
+        "heartRate": 72,
+        "steps": 0,
+        "oxygenSaturation": 97.63
+    },
+    {
+        "effectiveDateTime": "2024-09-17T23:49:25.055470",
+        "activity": "rest",
+        "heartRate": 74,
+        "steps": 0,
+        "oxygenSaturation": 97.99
+    },
+    {
+        "effectiveDateTime": "2024-09-18T00:49:25.055470",
+        "activity": "rest",
+        "heartRate": 73,
+        "steps": 0,
+        "oxygenSaturation": 96.5
+    },
+    {
+        "effectiveDateTime": "2024-09-18T01:49:25.055470",
+        "activity": "rest",
+        "heartRate": 75,
+        "steps": 0,
+        "oxygenSaturation": 97.65
+    },
+    {
+        "effectiveDateTime": "2024-09-18T02:49:25.055470",
+        "activity": "rest",
+        "heartRate": 61,
+        "steps": 0,
+        "oxygenSaturation": 97.28
+    },
+    {
+        "effectiveDateTime": "2024-09-18T03:49:25.055470",
+        "activity": "rest",
+        "heartRate": 61,
+        "steps": 0,
+        "oxygenSaturation": 96.96
+    },
+    {
+        "effectiveDateTime": "2024-09-18T04:49:25.055470",
+        "activity": "rest",
+        "heartRate": 72,
+        "steps": 0,
+        "oxygenSaturation": 96.57
+    },
+    {
+        "effectiveDateTime": "2024-09-18T05:49:25.055470",
+        "activity": "rest",
+        "heartRate": 70,
+        "steps": 0,
+        "oxygenSaturation": 98.42
+    },
+    {
+        "effectiveDateTime": "2024-09-18T06:49:25.055470",
+        "activity": "active",
+        "heartRate": 76,
+        "steps": 47,
+        "oxygenSaturation": 97.76
+    },
+    {
+        "effectiveDateTime": "2024-09-18T07:49:25.055470",
+        "activity": "active",
+        "heartRate": 82,
+        "steps": 73,
+        "oxygenSaturation": 98.17
+    },
+    {
+        "effectiveDateTime": "2024-09-18T08:49:25.055470",
+        "activity": "workout",
+        "heartRate": 130,
+        "steps": 428,
+        "oxygenSaturation": 95.25
+    },
+    {
+        "effectiveDateTime": "2024-09-18T09:49:25.055470",
+        "activity": "active",
+        "heartRate": 87,
+        "steps": 80,
+        "oxygenSaturation": 96.51
+    },
+    {
+        "effectiveDateTime": "2024-09-18T10:49:25.055470",
+        "activity": "active",
+        "heartRate": 80,
+        "steps": 41,
+        "oxygenSaturation": 96.75
+    },
+    {
+        "effectiveDateTime": "2024-09-18T11:49:25.055470",
+        "activity": "active",
+        "heartRate": 77,
+        "steps": 41,
+        "oxygenSaturation": 98.87
+    },
+    {
+        "effectiveDateTime": "2024-09-18T12:49:25.055470",
+        "activity": "active",
+        "heartRate": 83,
+        "steps": 38,
+        "oxygenSaturation": 98.22
+    },
+    {
+        "effectiveDateTime": "2024-09-18T13:49:25.055470",
+        "activity": "active",
+        "heartRate": 72,
+        "steps": 42,
+        "oxygenSaturation": 97.94
+    },
+    {
+        "effectiveDateTime": "2024-09-18T14:49:25.055470",
+        "activity": "active",
+        "heartRate": 78,
+        "steps": 79,
+        "oxygenSaturation": 97.51
+    },
+    {
+        "effectiveDateTime": "2024-09-18T15:49:25.055470",
+        "activity": "active",
+        "heartRate": 88,
+        "steps": 52,
+        "oxygenSaturation": 98.29
+    },
+    {
+        "effectiveDateTime": "2024-09-18T16:49:25.055470",
+        "activity": "active",
+        "heartRate": 79,
+        "steps": 84,
+        "oxygenSaturation": 97.09
+    },
+    {
+        "effectiveDateTime": "2024-09-18T17:49:25.055470",
+        "activity": "active",
+        "heartRate": 84,
+        "steps": 77,
+        "oxygenSaturation": 97.51
+    },
+    {
+        "effectiveDateTime": "2024-09-18T18:49:25.055470",
+        "activity": "active",
+        "heartRate": 89,
+        "steps": 32,
+        "oxygenSaturation": 98.05
+    },
+    {
+        "effectiveDateTime": "2024-09-18T19:49:25.055470",
+        "activity": "active",
+        "heartRate": 74,
+        "steps": 91,
+        "oxygenSaturation": 96.24
+    },
+    {
+        "effectiveDateTime": "2024-09-18T20:49:25.055470",
+        "activity": "workout",
+        "heartRate": 121,
+        "steps": 477,
+        "oxygenSaturation": 96.96
+    },
+    {
+        "effectiveDateTime": "2024-09-18T21:49:25.055470",
+        "activity": "active",
+        "heartRate": 71,
+        "steps": 67,
+        "oxygenSaturation": 97.59
+    },
+    {
+        "effectiveDateTime": "2024-09-18T22:49:25.055470",
+        "activity": "rest",
+        "heartRate": 61,
+        "steps": 0,
+        "oxygenSaturation": 96.43
+    },
+    {
+        "effectiveDateTime": "2024-09-18T23:49:25.055470",
+        "activity": "rest",
+        "heartRate": 64,
+        "steps": 0,
+        "oxygenSaturation": 97.61
+    },
+    {
+        "effectiveDateTime": "2024-09-19T00:49:25.055470",
+        "activity": "rest",
+        "heartRate": 65,
+        "steps": 0,
+        "oxygenSaturation": 98.23
+    },
+    {
+        "effectiveDateTime": "2024-09-19T01:49:25.055470",
+        "activity": "rest",
+        "heartRate": 70,
+        "steps": 0,
+        "oxygenSaturation": 97.02
+    },
+    {
+        "effectiveDateTime": "2024-09-19T02:49:25.055470",
+        "activity": "rest",
+        "heartRate": 65,
+        "steps": 0,
+        "oxygenSaturation": 96.46
+    },
+    {
+        "effectiveDateTime": "2024-09-19T03:49:25.055470",
+        "activity": "rest",
+        "heartRate": 68,
+        "steps": 0,
+        "oxygenSaturation": 96.86
+    },
+    {
+        "effectiveDateTime": "2024-09-19T04:49:25.055470",
+        "activity": "rest",
+        "heartRate": 73,
+        "steps": 0,
+        "oxygenSaturation": 97.21
+    },
+    {
+        "effectiveDateTime": "2024-09-19T05:49:25.055470",
+        "activity": "rest",
+        "heartRate": 65,
+        "steps": 0,
+        "oxygenSaturation": 98.9
+    },
+    {
+        "effectiveDateTime": "2024-09-19T06:49:25.055470",
+        "activity": "active",
+        "heartRate": 76,
+        "steps": 39,
+        "oxygenSaturation": 97.2
+    },
+    {
+        "effectiveDateTime": "2024-09-19T07:49:25.055470",
+        "activity": "active",
+        "heartRate": 73,
+        "steps": 79,
+        "oxygenSaturation": 96.75
+    },
+    {
+        "effectiveDateTime": "2024-09-19T08:49:25.055470",
+        "activity": "workout",
+        "heartRate": 114,
+        "steps": 333,
+        "oxygenSaturation": 96.94
+    },
+    {
+        "effectiveDateTime": "2024-09-19T09:49:25.055470",
+        "activity": "active",
+        "heartRate": 85,
+        "steps": 66,
+        "oxygenSaturation": 98.76
+    },
+    {
+        "effectiveDateTime": "2024-09-19T10:49:25.055470",
+        "activity": "active",
+        "heartRate": 84,
+        "steps": 68,
+        "oxygenSaturation": 96.02
+    },
+    {
+        "effectiveDateTime": "2024-09-19T11:49:25.055470",
+        "activity": "active",
+        "heartRate": 80,
+        "steps": 82,
+        "oxygenSaturation": 96.05
+    },
+    {
+        "effectiveDateTime": "2024-09-19T12:49:25.055470",
+        "activity": "active",
+        "heartRate": 74,
+        "steps": 37,
+        "oxygenSaturation": 96.5
+    },
+    {
+        "effectiveDateTime": "2024-09-19T13:49:25.055470",
+        "activity": "active",
+        "heartRate": 80,
+        "steps": 97,
+        "oxygenSaturation": 96.7
+    },
+    {
+        "effectiveDateTime": "2024-09-19T14:49:25.055470",
+        "activity": "active",
+        "heartRate": 77,
+        "steps": 35,
+        "oxygenSaturation": 96.59
+    },
+    {
+        "effectiveDateTime": "2024-09-19T15:49:25.055470",
+        "activity": "active",
+        "heartRate": 89,
+        "steps": 73,
+        "oxygenSaturation": 98.04
+    },
+    {
+        "effectiveDateTime": "2024-09-19T16:49:25.055470",
+        "activity": "active",
+        "heartRate": 75,
+        "steps": 38,
+        "oxygenSaturation": 98.16
+    },
+    {
+        "effectiveDateTime": "2024-09-19T17:49:25.055470",
+        "activity": "active",
+        "heartRate": 84,
+        "steps": 42,
+        "oxygenSaturation": 96.34
+    },
+    {
+        "effectiveDateTime": "2024-09-19T18:49:25.055470",
+        "activity": "active",
+        "heartRate": 84,
+        "steps": 49,
+        "oxygenSaturation": 98.75
+    },
+    {
+        "effectiveDateTime": "2024-09-19T19:49:25.055470",
+        "activity": "active",
+        "heartRate": 78,
+        "steps": 34,
+        "oxygenSaturation": 96.54
+    },
+    {
+        "effectiveDateTime": "2024-09-19T20:49:25.055470",
+        "activity": "active",
+        "heartRate": 75,
+        "steps": 95,
+        "oxygenSaturation": 98.91
+    },
+    {
+        "effectiveDateTime": "2024-09-19T21:49:25.055470",
+        "activity": "workout",
+        "heartRate": 114,
+        "steps": 392,
+        "oxygenSaturation": 95.11
+    },
+    {
+        "effectiveDateTime": "2024-09-19T22:49:25.055470",
+        "activity": "rest",
+        "heartRate": 74,
+        "steps": 0,
+        "oxygenSaturation": 98.43
+    },
+    {
+        "effectiveDateTime": "2024-09-19T23:49:25.055470",
+        "activity": "rest",
+        "heartRate": 73,
+        "steps": 0,
+        "oxygenSaturation": 98.64
+    },
+    {
+        "effectiveDateTime": "2024-09-20T00:49:25.055470",
+        "activity": "rest",
+        "heartRate": 60,
+        "steps": 0,
+        "oxygenSaturation": 97.19
+    },
+    {
+        "effectiveDateTime": "2024-09-20T01:49:25.055470",
+        "activity": "rest",
+        "heartRate": 70,
+        "steps": 0,
+        "oxygenSaturation": 97.97
+    },
+    {
+        "effectiveDateTime": "2024-09-20T02:49:25.055470",
+        "activity": "rest",
+        "heartRate": 71,
+        "steps": 0,
+        "oxygenSaturation": 97.21
+    },
+    {
+        "effectiveDateTime": "2024-09-20T03:49:25.055470",
+        "activity": "rest",
+        "heartRate": 66,
+        "steps": 0,
+        "oxygenSaturation": 96.79
+    },
+    {
+        "effectiveDateTime": "2024-09-20T04:49:25.055470",
+        "activity": "rest",
+        "heartRate": 65,
+        "steps": 0,
+        "oxygenSaturation": 98.98
+    },
+    {
+        "effectiveDateTime": "2024-09-20T05:49:25.055470",
+        "activity": "rest",
+        "heartRate": 69,
+        "steps": 0,
+        "oxygenSaturation": 97.24
+    },
+    {
+        "effectiveDateTime": "2024-09-20T06:49:25.055470",
+        "activity": "active",
+        "heartRate": 75,
+        "steps": 70,
+        "oxygenSaturation": 96.83
+    },
+    {
+        "effectiveDateTime": "2024-09-20T07:49:25.055470",
+        "activity": "active",
+        "heartRate": 80,
+        "steps": 69,
+        "oxygenSaturation": 97.07
+    },
+    {
+        "effectiveDateTime": "2024-09-20T08:49:25.055470",
+        "activity": "active",
+        "heartRate": 85,
+        "steps": 80,
+        "oxygenSaturation": 97.42
+    },
+    {
+        "effectiveDateTime": "2024-09-20T09:49:25.055470",
+        "activity": "active",
+        "heartRate": 71,
+        "steps": 59,
+        "oxygenSaturation": 98.57
+    },
+    {
+        "effectiveDateTime": "2024-09-20T10:49:25.055470",
+        "activity": "active",
+        "heartRate": 84,
+        "steps": 50,
+        "oxygenSaturation": 96.77
+    },
+    {
+        "effectiveDateTime": "2024-09-20T11:49:25.055470",
+        "activity": "active",
+        "heartRate": 83,
+        "steps": 76,
+        "oxygenSaturation": 97.52
+    },
+    {
+        "effectiveDateTime": "2024-09-20T12:49:25.055470",
+        "activity": "active",
+        "heartRate": 77,
+        "steps": 86,
+        "oxygenSaturation": 97.08
+    },
+    {
+        "effectiveDateTime": "2024-09-20T13:49:25.055470",
+        "activity": "active",
+        "heartRate": 75,
+        "steps": 81,
+        "oxygenSaturation": 97.13
+    },
+    {
+        "effectiveDateTime": "2024-09-20T14:49:25.055470",
+        "activity": "active",
+        "heartRate": 70,
+        "steps": 79,
+        "oxygenSaturation": 96.67
+    },
+    {
+        "effectiveDateTime": "2024-09-20T15:49:25.055470",
+        "activity": "active",
+        "heartRate": 89,
+        "steps": 92,
+        "oxygenSaturation": 97.09
+    },
+    {
+        "effectiveDateTime": "2024-09-20T16:49:25.055470",
+        "activity": "active",
+        "heartRate": 83,
+        "steps": 82,
+        "oxygenSaturation": 96.22
+    },
+    {
+        "effectiveDateTime": "2024-09-20T17:49:25.055470",
+        "activity": "active",
+        "heartRate": 72,
+        "steps": 80,
+        "oxygenSaturation": 97.68
+    },
+    {
+        "effectiveDateTime": "2024-09-20T18:49:25.055470",
+        "activity": "workout",
+        "heartRate": 138,
+        "steps": 387,
+        "oxygenSaturation": 95.03
+    },
+    {
+        "effectiveDateTime": "2024-09-20T19:49:25.055470",
+        "activity": "active",
+        "heartRate": 79,
+        "steps": 45,
+        "oxygenSaturation": 96.22
+    },
+    {
+        "effectiveDateTime": "2024-09-20T20:49:25.055470",
+        "activity": "workout",
+        "heartRate": 121,
+        "steps": 503,
+        "oxygenSaturation": 94.68
+    },
+    {
+        "effectiveDateTime": "2024-09-20T21:49:25.055470",
+        "activity": "active",
+        "heartRate": 70,
+        "steps": 64,
+        "oxygenSaturation": 97.41
+    },
+    {
+        "effectiveDateTime": "2024-09-20T22:49:25.055470",
+        "activity": "rest",
+        "heartRate": 62,
+        "steps": 0,
+        "oxygenSaturation": 96.51
+    },
+    {
+        "effectiveDateTime": "2024-09-20T23:49:25.055470",
+        "activity": "rest",
+        "heartRate": 67,
+        "steps": 0,
+        "oxygenSaturation": 96.44
+    },
+    {
+        "effectiveDateTime": "2024-09-21T00:49:25.055470",
+        "activity": "rest",
+        "heartRate": 72,
+        "steps": 0,
+        "oxygenSaturation": 96.33
+    },
+    {
+        "effectiveDateTime": "2024-09-21T01:49:25.055470",
+        "activity": "rest",
+        "heartRate": 65,
+        "steps": 0,
+        "oxygenSaturation": 96.32
+    },
+    {
+        "effectiveDateTime": "2024-09-21T02:49:25.055470",
+        "activity": "rest",
+        "heartRate": 67,
+        "steps": 0,
+        "oxygenSaturation": 96.53
+    },
+    {
+        "effectiveDateTime": "2024-09-21T03:49:25.055470",
+        "activity": "rest",
+        "heartRate": 60,
+        "steps": 0,
+        "oxygenSaturation": 97.52
+    },
+    {
+        "effectiveDateTime": "2024-09-21T04:49:25.055470",
+        "activity": "rest",
+        "heartRate": 72,
+        "steps": 0,
+        "oxygenSaturation": 98.1
+    },
+    {
+        "effectiveDateTime": "2024-09-21T05:49:25.055470",
+        "activity": "rest",
+        "heartRate": 75,
+        "steps": 0,
+        "oxygenSaturation": 97.52
+    },
+    {
+        "effectiveDateTime": "2024-09-21T06:49:25.055470",
+        "activity": "workout",
+        "heartRate": 139,
+        "steps": 401,
+        "oxygenSaturation": 95.46
+    },
+    {
+        "effectiveDateTime": "2024-09-21T07:49:25.055470",
+        "activity": "active",
+        "heartRate": 76,
+        "steps": 82,
+        "oxygenSaturation": 97.16
+    },
+    {
+        "effectiveDateTime": "2024-09-21T08:49:25.055470",
+        "activity": "active",
+        "heartRate": 89,
+        "steps": 64,
+        "oxygenSaturation": 96.95
+    },
+    {
+        "effectiveDateTime": "2024-09-21T09:49:25.055470",
+        "activity": "active",
+        "heartRate": 79,
+        "steps": 96,
+        "oxygenSaturation": 97.41
+    },
+    {
+        "effectiveDateTime": "2024-09-21T10:49:25.055470",
+        "activity": "active",
+        "heartRate": 80,
+        "steps": 57,
+        "oxygenSaturation": 98.96
+    },
+    {
+        "effectiveDateTime": "2024-09-21T11:49:25.055470",
+        "activity": "active",
+        "heartRate": 87,
+        "steps": 96,
+        "oxygenSaturation": 96.34
+    },
+    {
+        "effectiveDateTime": "2024-09-21T12:49:25.055470",
+        "activity": "active",
+        "heartRate": 90,
+        "steps": 88,
+        "oxygenSaturation": 98.53
+    },
+    {
+        "effectiveDateTime": "2024-09-21T13:49:25.055470",
+        "activity": "active",
+        "heartRate": 79,
+        "steps": 71,
+        "oxygenSaturation": 98.37
+    },
+    {
+        "effectiveDateTime": "2024-09-21T14:49:25.055470",
+        "activity": "active",
+        "heartRate": 78,
+        "steps": 91,
+        "oxygenSaturation": 96.91
+    },
+    {
+        "effectiveDateTime": "2024-09-21T15:49:25.055470",
+        "activity": "active",
+        "heartRate": 82,
+        "steps": 54,
+        "oxygenSaturation": 98.45
+    },
+    {
+        "effectiveDateTime": "2024-09-21T16:49:25.055470",
+        "activity": "active",
+        "heartRate": 78,
+        "steps": 98,
+        "oxygenSaturation": 97.41
+    },
+    {
+        "effectiveDateTime": "2024-09-21T17:49:25.055470",
+        "activity": "active",
+        "heartRate": 84,
+        "steps": 99,
+        "oxygenSaturation": 97.51
+    },
+    {
+        "effectiveDateTime": "2024-09-21T18:49:25.055470",
+        "activity": "workout",
+        "heartRate": 113,
+        "steps": 547,
+        "oxygenSaturation": 96.05
+    },
+    {
+        "effectiveDateTime": "2024-09-21T19:49:25.055470",
+        "activity": "active",
+        "heartRate": 75,
+        "steps": 94,
+        "oxygenSaturation": 97.66
+    },
+    {
+        "effectiveDateTime": "2024-09-21T20:49:25.055470",
+        "activity": "active",
+        "heartRate": 84,
+        "steps": 62,
+        "oxygenSaturation": 97.96
+    },
+    {
+        "effectiveDateTime": "2024-09-21T21:49:25.055470",
+        "activity": "active",
+        "heartRate": 71,
+        "steps": 62,
+        "oxygenSaturation": 97.91
+    },
+    {
+        "effectiveDateTime": "2024-09-21T22:49:25.055470",
+        "activity": "rest",
+        "heartRate": 71,
+        "steps": 0,
+        "oxygenSaturation": 96.78
+    },
+    {
+        "effectiveDateTime": "2024-09-21T23:49:25.055470",
+        "activity": "rest",
+        "heartRate": 73,
+        "steps": 0,
+        "oxygenSaturation": 96.76
+    },
+    {
+        "effectiveDateTime": "2024-09-22T00:49:25.055470",
+        "activity": "rest",
+        "heartRate": 61,
+        "steps": 0,
+        "oxygenSaturation": 96.86
+    },
+    {
+        "effectiveDateTime": "2024-09-22T01:49:25.055470",
+        "activity": "rest",
+        "heartRate": 63,
+        "steps": 0,
+        "oxygenSaturation": 97.6
+    },
+    {
+        "effectiveDateTime": "2024-09-22T02:49:25.055470",
+        "activity": "rest",
+        "heartRate": 73,
+        "steps": 0,
+        "oxygenSaturation": 96.65
+    },
+    {
+        "effectiveDateTime": "2024-09-22T03:49:25.055470",
+        "activity": "rest",
+        "heartRate": 72,
+        "steps": 0,
+        "oxygenSaturation": 98.02
+    },
+    {
+        "effectiveDateTime": "2024-09-22T04:49:25.055470",
+        "activity": "rest",
+        "heartRate": 74,
+        "steps": 0,
+        "oxygenSaturation": 96.0
+    },
+    {
+        "effectiveDateTime": "2024-09-22T05:49:25.055470",
+        "activity": "rest",
+        "heartRate": 69,
+        "steps": 0,
+        "oxygenSaturation": 98.32
+    },
+    {
+        "effectiveDateTime": "2024-09-22T06:49:25.055470",
+        "activity": "workout",
+        "heartRate": 110,
+        "steps": 484,
+        "oxygenSaturation": 94.02
+    },
+    {
+        "effectiveDateTime": "2024-09-22T07:49:25.055470",
+        "activity": "workout",
+        "heartRate": 124,
+        "steps": 570,
+        "oxygenSaturation": 95.69
+    },
+    {
+        "effectiveDateTime": "2024-09-22T08:49:25.055470",
+        "activity": "workout",
+        "heartRate": 115,
+        "steps": 322,
+        "oxygenSaturation": 94.49
+    },
+    {
+        "effectiveDateTime": "2024-09-22T09:49:25.055470",
+        "activity": "active",
+        "heartRate": 86,
+        "steps": 94,
+        "oxygenSaturation": 96.64
+    },
+    {
+        "effectiveDateTime": "2024-09-22T10:49:25.055470",
+        "activity": "active",
+        "heartRate": 86,
+        "steps": 30,
+        "oxygenSaturation": 96.68
+    },
+    {
+        "effectiveDateTime": "2024-09-22T11:49:25.055470",
+        "activity": "active",
+        "heartRate": 74,
+        "steps": 88,
+        "oxygenSaturation": 98.47
+    },
+    {
+        "effectiveDateTime": "2024-09-22T12:49:25.055470",
+        "activity": "active",
+        "heartRate": 73,
+        "steps": 55,
+        "oxygenSaturation": 98.33
+    },
+    {
+        "effectiveDateTime": "2024-09-22T13:49:25.055470",
+        "activity": "active",
+        "heartRate": 81,
+        "steps": 32,
+        "oxygenSaturation": 98.69
+    },
+    {
+        "effectiveDateTime": "2024-09-22T14:49:25.055470",
+        "activity": "active",
+        "heartRate": 79,
+        "steps": 48,
+        "oxygenSaturation": 97.77
+    },
+    {
+        "effectiveDateTime": "2024-09-22T15:49:25.055470",
+        "activity": "active",
+        "heartRate": 72,
+        "steps": 49,
+        "oxygenSaturation": 96.47
+    },
+    {
+        "effectiveDateTime": "2024-09-22T16:49:25.055470",
+        "activity": "active",
+        "heartRate": 80,
+        "steps": 32,
+        "oxygenSaturation": 97.23
+    },
+    {
+        "effectiveDateTime": "2024-09-22T17:49:25.055470",
+        "activity": "active",
+        "heartRate": 80,
+        "steps": 67,
+        "oxygenSaturation": 97.19
+    },
+    {
+        "effectiveDateTime": "2024-09-22T18:49:25.055470",
+        "activity": "workout",
+        "heartRate": 131,
+        "steps": 471,
+        "oxygenSaturation": 94.28
+    },
+    {
+        "effectiveDateTime": "2024-09-22T19:49:25.055470",
+        "activity": "workout",
+        "heartRate": 138,
+        "steps": 461,
+        "oxygenSaturation": 94.95
+    },
+    {
+        "effectiveDateTime": "2024-09-22T20:49:25.055470",
+        "activity": "active",
+        "heartRate": 90,
+        "steps": 79,
+        "oxygenSaturation": 98.48
+    },
+    {
+        "effectiveDateTime": "2024-09-22T21:49:25.055470",
+        "activity": "active",
+        "heartRate": 86,
+        "steps": 75,
+        "oxygenSaturation": 98.75
+    },
+    {
+        "effectiveDateTime": "2024-09-22T22:49:25.055470",
+        "activity": "rest",
+        "heartRate": 67,
+        "steps": 0,
+        "oxygenSaturation": 97.08
+    },
+    {
+        "effectiveDateTime": "2024-09-22T23:49:25.055470",
+        "activity": "rest",
+        "heartRate": 72,
+        "steps": 0,
+        "oxygenSaturation": 97.93
+    },
+    {
+        "effectiveDateTime": "2024-09-23T00:49:25.055470",
+        "activity": "rest",
+        "heartRate": 69,
+        "steps": 0,
+        "oxygenSaturation": 96.36
+    },
+    {
+        "effectiveDateTime": "2024-09-23T01:49:25.055470",
+        "activity": "rest",
+        "heartRate": 68,
+        "steps": 0,
+        "oxygenSaturation": 98.23
+    },
+    {
+        "effectiveDateTime": "2024-09-23T02:49:25.055470",
+        "activity": "rest",
+        "heartRate": 62,
+        "steps": 0,
+        "oxygenSaturation": 96.71
+    },
+    {
+        "effectiveDateTime": "2024-09-23T03:49:25.055470",
+        "activity": "rest",
+        "heartRate": 66,
+        "steps": 0,
+        "oxygenSaturation": 98.74
+    },
+    {
+        "effectiveDateTime": "2024-09-23T04:49:25.055470",
+        "activity": "rest",
+        "heartRate": 64,
+        "steps": 0,
+        "oxygenSaturation": 96.47
+    },
+    {
+        "effectiveDateTime": "2024-09-23T05:49:25.055470",
+        "activity": "rest",
+        "heartRate": 64,
+        "steps": 0,
+        "oxygenSaturation": 96.32
+    },
+    {
+        "effectiveDateTime": "2024-09-23T06:49:25.055470",
+        "activity": "workout",
+        "heartRate": 138,
+        "steps": 377,
+        "oxygenSaturation": 96.16
+    },
+    {
+        "effectiveDateTime": "2024-09-23T07:49:25.055470",
+        "activity": "active",
+        "heartRate": 75,
+        "steps": 78,
+        "oxygenSaturation": 98.13
+    },
+    {
+        "effectiveDateTime": "2024-09-23T08:49:25.055470",
+        "activity": "active",
+        "heartRate": 86,
+        "steps": 64,
+        "oxygenSaturation": 98.01
+    },
+    {
+        "effectiveDateTime": "2024-09-23T09:49:25.055470",
+        "activity": "active",
+        "heartRate": 90,
+        "steps": 87,
+        "oxygenSaturation": 96.33
+    },
+    {
+        "effectiveDateTime": "2024-09-23T10:49:25.055470",
+        "activity": "active",
+        "heartRate": 82,
+        "steps": 71,
+        "oxygenSaturation": 96.17
+    },
+    {
+        "effectiveDateTime": "2024-09-23T11:49:25.055470",
+        "activity": "active",
+        "heartRate": 90,
+        "steps": 43,
+        "oxygenSaturation": 96.76
+    },
+    {
+        "effectiveDateTime": "2024-09-23T12:49:25.055470",
+        "activity": "active",
+        "heartRate": 81,
+        "steps": 75,
+        "oxygenSaturation": 96.01
+    },
+    {
+        "effectiveDateTime": "2024-09-23T13:49:25.055470",
+        "activity": "active",
+        "heartRate": 87,
+        "steps": 81,
+        "oxygenSaturation": 97.56
+    },
+    {
+        "effectiveDateTime": "2024-09-23T14:49:25.055470",
+        "activity": "active",
+        "heartRate": 86,
+        "steps": 76,
+        "oxygenSaturation": 97.47
+    },
+    {
+        "effectiveDateTime": "2024-09-23T15:49:25.055470",
+        "activity": "active",
+        "heartRate": 90,
+        "steps": 42,
+        "oxygenSaturation": 98.94
+    },
+    {
+        "effectiveDateTime": "2024-09-23T16:49:25.055470",
+        "activity": "active",
+        "heartRate": 79,
+        "steps": 63,
+        "oxygenSaturation": 96.91
+    },
+    {
+        "effectiveDateTime": "2024-09-23T17:49:25.055470",
+        "activity": "active",
+        "heartRate": 70,
+        "steps": 100,
+        "oxygenSaturation": 96.33
+    },
+    {
+        "effectiveDateTime": "2024-09-23T18:49:25.055470",
+        "activity": "active",
+        "heartRate": 89,
+        "steps": 99,
+        "oxygenSaturation": 96.28
+    },
+    {
+        "effectiveDateTime": "2024-09-23T19:49:25.055470",
+        "activity": "workout",
+        "heartRate": 113,
+        "steps": 548,
+        "oxygenSaturation": 94.97
+    },
+    {
+        "effectiveDateTime": "2024-09-23T20:49:25.055470",
+        "activity": "workout",
+        "heartRate": 125,
+        "steps": 477,
+        "oxygenSaturation": 96.89
+    },
+    {
+        "effectiveDateTime": "2024-09-23T21:49:25.055470",
+        "activity": "workout",
+        "heartRate": 135,
+        "steps": 397,
+        "oxygenSaturation": 94.18
+    },
+    {
+        "effectiveDateTime": "2024-09-23T22:49:25.055470",
+        "activity": "rest",
+        "heartRate": 60,
+        "steps": 0,
+        "oxygenSaturation": 96.31
+    },
+    {
+        "effectiveDateTime": "2024-09-23T23:49:25.055470",
+        "activity": "rest",
+        "heartRate": 69,
+        "steps": 0,
+        "oxygenSaturation": 97.55
+    },
+    {
+        "effectiveDateTime": "2024-09-24T00:49:25.055470",
+        "activity": "rest",
+        "heartRate": 61,
+        "steps": 0,
+        "oxygenSaturation": 97.11
+    },
+    {
+        "effectiveDateTime": "2024-09-24T01:49:25.055470",
+        "activity": "rest",
+        "heartRate": 60,
+        "steps": 0,
+        "oxygenSaturation": 98.09
+    },
+    {
+        "effectiveDateTime": "2024-09-24T02:49:25.055470",
+        "activity": "rest",
+        "heartRate": 75,
+        "steps": 0,
+        "oxygenSaturation": 98.68
+    },
+    {
+        "effectiveDateTime": "2024-09-24T03:49:25.055470",
+        "activity": "rest",
+        "heartRate": 74,
+        "steps": 0,
+        "oxygenSaturation": 98.29
+    },
+    {
+        "effectiveDateTime": "2024-09-24T04:49:25.055470",
+        "activity": "rest",
+        "heartRate": 67,
+        "steps": 0,
+        "oxygenSaturation": 97.91
+    },
+    {
+        "effectiveDateTime": "2024-09-24T05:49:25.055470",
+        "activity": "rest",
+        "heartRate": 65,
+        "steps": 0,
+        "oxygenSaturation": 98.78
+    },
+    {
+        "effectiveDateTime": "2024-09-24T06:49:25.055470",
+        "activity": "active",
+        "heartRate": 85,
+        "steps": 73,
+        "oxygenSaturation": 97.08
+    },
+    {
+        "effectiveDateTime": "2024-09-24T07:49:25.055470",
+        "activity": "active",
+        "heartRate": 88,
+        "steps": 53,
+        "oxygenSaturation": 96.06
+    },
+    {
+        "effectiveDateTime": "2024-09-24T08:49:25.055470",
+        "activity": "active",
+        "heartRate": 81,
+        "steps": 65,
+        "oxygenSaturation": 97.58
+    },
+    {
+        "effectiveDateTime": "2024-09-24T09:49:25.055470",
+        "activity": "active",
+        "heartRate": 80,
+        "steps": 68,
+        "oxygenSaturation": 97.95
+    },
+    {
+        "effectiveDateTime": "2024-09-24T10:49:25.055470",
+        "activity": "active",
+        "heartRate": 83,
+        "steps": 43,
+        "oxygenSaturation": 96.97
+    },
+    {
+        "effectiveDateTime": "2024-09-24T11:49:25.055470",
+        "activity": "active",
+        "heartRate": 70,
+        "steps": 89,
+        "oxygenSaturation": 97.8
+    }
+]
